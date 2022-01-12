@@ -139,3 +139,5 @@ cython_debug/
 
 # kaggle_data
 kaggle_data/tweets_DM.json
+GoogleNews/
+trash/
